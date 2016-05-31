@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LabAPP</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Ім\'я</string>
+    <string name="prompt_password">Прізвище</string>
+    <string name="action_sign_in">Вхід</string>
+    <string name="action_sign_in_short">Вхід</string>
+    <string name="error_invalid_email">Це ім\'я не вірне</string>
+    <string name="error_incorrect_password">Це прізвище не вірне</string>
+    <string name="error_field_required">Поле обов\'язкове для заповнення</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_lab_app">LabAPP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Налаштування</string>
+</resources>
